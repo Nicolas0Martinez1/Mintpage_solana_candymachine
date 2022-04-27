@@ -51,7 +51,7 @@ export const MintButton = ({
       return <CircularProgress />;
     }
 
-    return 'MINT';
+    return 'GET MY CAR';
   };
 
   return (

@@ -27,7 +27,7 @@ const ConnectButton = styled(WalletDialogButton)`
   height: 60px;
   margin-top: 10px;
   margin-bottom: 5px;
-  background: linear-gradient(180deg, #604ae5 0%, #813eee 100%);
+  background: linear-gradient(45deg, #813eee 0%, #ff8800 100%);
   color: white;
   font-size: 16px;
   font-weight: bold;
@@ -430,7 +430,15 @@ const Home = (props: HomeProps) => {
             display="block"
             style={{ marginTop: 7, color: 'grey' }}
           >
-            Powered by METAPLEX
+            Presale
+          </Typography>
+          <Typography
+            variant="caption"
+            align="center"
+            display="block"
+            style={{ marginTop: 7, color: 'gold' }}
+          >
+            GOLD
           </Typography>
         </Paper>
       </Container>

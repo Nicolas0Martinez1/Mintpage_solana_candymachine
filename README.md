@@ -5,9 +5,9 @@
 </h1>
 
 
-<a hreff="https://dynamic-custard-28d20a.netlify.app/">NFT MintPage devnet<a/>
+#<a hreff="https://dynamic-custard-28d20a.netlify.app/">NFT MintPage devnet<a/>
 
 
-<a hreff="https://docs.metaplex.com/">DOCS = Solana_Metaplex_CandyMachine<a/>
+#<a hreff="https://docs.metaplex.com/">DOCS = Solana_Metaplex_CandyMachine<a/>
  
 

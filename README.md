@@ -1,4 +1,4 @@
-<h1 align="lefth">
+<h1 align="center">
   <a href="https://Asphalttyre.com">
     <img alt="Asphalt Tyre" src="public/logotipo.png" style="background: black; padding: 10px" width="250" />
   </a>

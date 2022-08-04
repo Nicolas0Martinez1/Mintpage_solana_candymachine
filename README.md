@@ -4,10 +4,10 @@
   </a>
 </h1>
 
-
-#<a hreff="https://dynamic-custard-28d20a.netlify.app/">NFT MintPage devnet<a/>
-
-
+<h2>
+<a hreff="https://dynamic-custard-28d20a.netlify.app/">NFT MintPage devnet<a/>
+</h2>
+<h3>
 #<a hreff="https://docs.metaplex.com/">DOCS = Solana_Metaplex_CandyMachine<a/>
- 
+</h3>
 

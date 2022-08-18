@@ -6,7 +6,7 @@
 # Mint Page Solana Devnet
 
 <h2>Documentation</h2>
-<a <ul>Solana CLI<ul> href="https://docs.solana.com/cli/install-solana-cli-tools">
+<ul><a href="https://docs.solana.com/cli/install-solana-cli-tools">Solana CLI</a><ul>
 <ul><ul>
 <ul><ul>
 

@@ -3,7 +3,7 @@
     <img alt="Asphalt Tyre" src="public/logotipo.png" width="400 px" heigth="200 px">
   </a>
 </h1>
-<h2 text-align="center">Mint Page Solana Devnet</h2>
+<h2 align="center">Mint Page Solana Devnet</h2>
 
 <P>
 Asphalt Tyre is the first NFT vehicle metaverse based on Play to Earn on the solana blockchain.

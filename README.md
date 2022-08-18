@@ -3,10 +3,10 @@
     <img alt="Asphalt Tyre" src="public/logotipo.png" width="400 px" heigth="200 px">
   </a>
 </h1>
-<h2>Mint Page NFT Solana Devnet</h2>
+<h2>Mint Page Solana Devnet</h2>
 
 <P>
-Asphalt Tyre is the first vehicle metaverse based on Play to Earn on the solana blockchain.
+Asphalt Tyre is the first NFT vehicle metaverse based on Play to Earn on the solana blockchain.
 </P>
 
 <h3>Documentation</h3>

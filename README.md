@@ -6,9 +6,10 @@
 # Mint Page Solana Devnet
 
 <h2>Documentation</h2>
+<li>
 <ul><a href="https://nodejs.org/es/">Node JS</a><ul>
 <ul><a href="https://docs.solana.com/cli/install-solana-cli-tools">Solana CLI</a><ul>
 <ul><a href="https://docs.metaplex.com/programs/candy-machine/">Metaplex Candy Machine v.2</a><ul>
-
+</li>
 
 

@@ -3,6 +3,8 @@
     <img alt="Asphalt Tyre" src="public/logotipo.png">
   </a>
 </h1>
+<h2>Mint Page Solana Devnet</h2>
 
+# Solana 
 
 

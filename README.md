@@ -1,15 +1,19 @@
 <h1 align="center">
   <a href="https://dynamic-custard-28d20a.netlify.app">
-    <img alt="Asphalt Tyre" src="public/logotipo.png" width="200 px" heigth="200 px">
+    <img alt="Asphalt Tyre" src="public/logotipo.png" width="400 px" heigth="200 px">
   </a>
 </h1>
-# Mint Page Solana Devnet
+<h2>Mint Page NFT Solana Devnet</h2>
 
-<h2>Documentation</h2>
+<P>
+Asphalt Tyre is the first vehicle metaverse based on Play to Earn on the solana blockchain.
+</P>
+
+# Documentation
 <ul>
-<li><a href="https://nodejs.org/es/">Node JS</a><ul>
-<li><a href="https://docs.solana.com/cli/install-solana-cli-tools">Solana CLI</a><ul>
-<li><a href="https://docs.metaplex.com/programs/candy-machine/">Metaplex Candy Machine v.2</a><ul>
+<li><a href="https://nodejs.org/es/">Node JS</a><li>
+<li><a href="https://docs.solana.com/cli/install-solana-cli-tools">Solana CLI</a><li>
+<li><a href="https://docs.metaplex.com/programs/candy-machine/">Metaplex Candy Machine v.2</a><li>
 </ul>
 
 

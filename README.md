@@ -9,11 +9,10 @@
 Asphalt Tyre is the first vehicle metaverse based on Play to Earn on the solana blockchain.
 </P>
 
-# Documentation
-<ul>
+<h3>Documentation</h3>
 <li><a href="https://nodejs.org/es/">Node JS</a><li>
 <li><a href="https://docs.solana.com/cli/install-solana-cli-tools">Solana CLI</a><li>
 <li><a href="https://docs.metaplex.com/programs/candy-machine/">Metaplex Candy Machine v.2</a><li>
-</ul>
+
 
 
